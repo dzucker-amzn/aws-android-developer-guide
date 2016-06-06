@@ -11,9 +11,9 @@
 .. highlight:: java
 
 
-#######################
-Amazon Cognito Identity
-#######################
+###############################################
+Authenticate Users with Amazon Cognito Identity
+###############################################
 
 
 What is Amazon Cognito Identity?
